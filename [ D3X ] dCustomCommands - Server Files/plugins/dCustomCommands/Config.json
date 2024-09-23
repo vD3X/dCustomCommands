@@ -1,0 +1,10 @@
+{
+  "Komendy": {
+    "Steam": {
+      "Message": "{GREEN}Nasza Grupa Steam: {DEFAULT}https://steamcommunity.com/group/cszjarani"
+    },
+    "Discord": {
+      "Message": "{GREEN}Nasz serwer Discord: {DEFAULT}https://discord.gg/SMWD8zn21i"
+    }
+  }
+}
